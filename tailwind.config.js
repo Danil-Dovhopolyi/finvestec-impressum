@@ -7,7 +7,7 @@ export default {
         customLink: 'rgb(204, 51, 102)',
       },
       backgroundImage: {
-        'background-lines': "url('./src/images/Background.svg')",
+        'background-lines': "url('./images/Background.svg')",
       },
     },
   },
