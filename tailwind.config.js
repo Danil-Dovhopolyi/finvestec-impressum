@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        customLink: 'rgb(204, 51, 102)',
+        customLink: 'rgb(42,42,71)',
       },
       backgroundImage: {
         'background-lines': "url('./images/Background.svg')",
